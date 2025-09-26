@@ -1,4 +1,4 @@
-def partition(l, r, nums):
+#def partition(l, r, nums):123123qwe12312ewq
  +pass
  
  
