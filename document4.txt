@@ -1,3 +1,7 @@
 lol is fucking game too..asdad
 
+<<<<<<< HEAD
 sjdhasgyqwehdjbascjn
+=======
+213123147856
+>>>>>>> branch2
